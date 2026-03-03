@@ -23,7 +23,7 @@
  * @version 9.0
  */
 
-public class PalidromeChecker9 {
+public class PalindromeChecker9 {
 
     /**
      * Application entry point for UC9.
